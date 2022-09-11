@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **fun fact about me**
 
-### Blogs posts
+<!-- ### Blogs posts ( add back when fixed ) -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
