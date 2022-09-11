@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Firebase, GCP, cloud scaling**
 
-- 👨‍💻 All of my projects are available at [portfolio_link](portfolio_link)
+- 👨‍💻 All of my projects are available at [my portfolio](https://mmilic-portfolio.web.app/)
 
 - 📫 How to reach me **milosmilic032@gmail.com**
 
