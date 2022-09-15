@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miloš</h1>
+
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/my-cdn-bucket.appspot.com/o/cdn-files%2Fv0%2Ffiles%2Fpublic%2F0.43933444683202005randomThu%20Sep%2015%202022%2021%3A10%3A53%20GMT%2B0200%20(Central%20European%20Summer%20Time)-name-1663269053828?alt=media&token=7413efc6-a93e-4adf-bbd7-e73c30a6d089" width="600" height="300"/>
+</div>
+
 <h3 align="center">A passionate software developer from Serbia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shomy032" alt="shomy032" /></a> </p>
