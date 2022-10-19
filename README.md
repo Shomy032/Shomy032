@@ -8,7 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shomy032" alt="shomy032" /></a> </p>
 
-- 🔭 I’m currently working on [building web scraping toolkit](https://github.com/Shomy032/my-nodejs-scraper)
+- 🔭 I’m currently working on 
+
+<!-- [building web scraping toolkit](https://github.com/Shomy032/my-nodejs-scraper) -->
+
 
 - 🌱 I’m currently learning 
 
