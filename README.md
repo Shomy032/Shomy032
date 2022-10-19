@@ -10,7 +10,9 @@
 
 - 🔭 I’m currently working on [building web scraping toolkit](https://github.com/Shomy032/my-nodejs-scraper)
 
-- 🌱 I’m currently learning **Firebase, GCP, cloud scaling**
+- 🌱 I’m currently learning 
+
+<!-- **Firebase, GCP, cloud scaling** -->
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mmilic-portfolio.web.app/)
 
